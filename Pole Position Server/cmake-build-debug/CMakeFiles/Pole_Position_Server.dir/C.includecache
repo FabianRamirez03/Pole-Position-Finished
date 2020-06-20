@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ramir/CLionProjects/Pole Position Server/CarsInfo.c
+
+C:/Users/ramir/CLionProjects/Pole Position Server/Util.c
+stdio.h
+-
+string.h
+-
+
+C:/Users/ramir/CLionProjects/Pole Position Server/main.c
+stdio.h
+-
+windows.h
+-
+winsock.h
+-
+stdbool.h
+-
+errno.h
+-
+CarsInfo.c
+C:/Users/ramir/CLionProjects/Pole Position Server/CarsInfo.c
+Util.c
+C:/Users/ramir/CLionProjects/Pole Position Server/Util.c
+
